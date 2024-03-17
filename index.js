@@ -13,3 +13,5 @@ function calculateDays(date1, date2) {
 }
 const days = calculateDays(new Date("2023-01-01"), new Date("2023-01-03"));
 console.log(days); // 输出 2
+
+const yjm = "yjm";
