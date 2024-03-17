@@ -7,3 +7,5 @@ const c = "注册里卡多和";
 const d = "1111111";
 
 console.log("哈哈哈哈哈");
+
+console.log("哈哈哈哈哈");
